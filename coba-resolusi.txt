@@ -2,4 +2,4 @@ WPU resolusi
 -abcdefghij
 -12345678
       
-- nambah 2 resolusi
+- edit 2 resolusi
