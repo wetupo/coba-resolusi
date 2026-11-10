@@ -3,8 +3,10 @@ rencana konten WPU
 - javascript
   *ES6
   *Framework Javascript
-- Struktur data dasar 
+    ^ angular 
+    ^ react
 - pjp
+   ^ Laravel
 - interview
 - vlog
 - blog
