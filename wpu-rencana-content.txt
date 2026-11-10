@@ -3,8 +3,12 @@ rencana konten WPU
 - javascript
   *ES6
   *Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur data dasar 
 - pjp
+   ^ Laravel
 - interview
 - vlog
 - blog
+- Phyton
