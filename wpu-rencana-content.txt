@@ -3,6 +3,7 @@ rencana konten WPU
 - javascript
   *ES6
   *Framework Javascript
+- Struktur data dasar 
 - pjp
 - interview
 - vlog
