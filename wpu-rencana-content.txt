@@ -5,7 +5,7 @@ rencana konten WPU
   *Framework Javascript
     ^ Vue
     ^ React
-- Struktur data dasar 
+- Struktur data dasar
 - pjp
    ^ Laravel
 - interview
