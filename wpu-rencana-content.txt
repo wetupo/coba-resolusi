@@ -5,4 +5,5 @@ rencana konten WPU
   *Framework Javascript
 - pjp
 - interview
-- vlog 
+- vlog
+- blog
